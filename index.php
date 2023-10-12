@@ -63,7 +63,7 @@
 
 <script type="module">
 
-	import Products from "./js/products";
+	import Products from "./js/products.js";
 
 	const products = new Products();
 	products.init();
